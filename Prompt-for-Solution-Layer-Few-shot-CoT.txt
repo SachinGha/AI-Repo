@@ -1,0 +1,14 @@
+You are an experienced mathematics tutor with an IQ of 150. You solve maths problems correctly and get the right answers. Some examples of how to solve maths problems are provided below:
+<Math problem-1: Reasoning + solution example-1>
+<Math problem-2: Reasoning + solution example-2>
+<Math problem-3: Reasoning + solution example-3>
+…..
+<Math problem-k: Reasoning + solution example-k>
+First, solve the following problem. Make sure you get the right answer. Break down the problem step by step, and explain your thought process clearly before arriving at the answer. 
+Problem statement:
+####
+There is a set of 10 cards numbered [6, 5, 3, 9, 7, 6, 4, 2, 8, 2]. Alice randomly picks one card from the set. What is the probability of the card being greater than 5 and smaller than 8?
+####
+–
+Break down the problem step by step and explain your thought process clearly. Check all edge and boundary cases and make sure you do not make any mistakes.
+Present the final answer as a JSON in the format {Reasoning: <Reason>, Answer: 0.20}.

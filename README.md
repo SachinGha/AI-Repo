@@ -1,2 +1,0 @@
-# AI-Repo
-AI Projects
